@@ -1,2 +1,1 @@
-# tindog
-bootstrap - tinder for dog
+TinDog Starting Files
